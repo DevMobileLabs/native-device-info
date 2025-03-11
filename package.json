@@ -52,14 +52,14 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Trungkien03/native-device-info.git"
+    "url": "git+https://github.com/DevMobileLabs/native-device-info.git"
   },
   "author": "Kane <kain.nguyen@terralogic.com> (https://github.com/Trungkien03)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Trungkien03/native-device-info/issues"
+    "url": "https://github.com/DevMobileLabs/native-device-info/issues"
   },
-  "homepage": "https://github.com/Trungkien03/native-device-info#readme",
+  "homepage": "https://github.com/DevMobileLabs/native-device-info#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
