@@ -52,7 +52,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DevMobileLabs/native-device-info.git"
+    "url": "git+git@github.com:DevMobileLabs/native-device-info.git"
   },
   "author": "Kane <kain.nguyen@terralogic.com> (https://github.com/Trungkien03)",
   "license": "MIT",
@@ -64,6 +64,7 @@
     "registry": "https://registry.npmjs.org/"
   },
   "devDependencies": {
+    "@commitlint/config-angular": "^19.8.0",
     "@commitlint/config-conventional": "^17.0.2",
     "@evilmartians/lefthook": "^1.5.0",
     "@react-native-community/cli": "15.0.1",
@@ -72,6 +73,7 @@
     "@types/jest": "^29.5.5",
     "@types/react": "^18.2.44",
     "commitlint": "^17.0.2",
+    "conventional-changelog-angular": "^8.0.0",
     "del-cli": "^5.1.0",
     "eslint": "^8.51.0",
     "eslint-config-prettier": "^9.0.0",
@@ -81,7 +83,7 @@
     "react": "18.3.1",
     "react-native": "0.77.0",
     "react-native-builder-bob": "^0.36.0",
-    "release-it": "^17.10.0",
+    "release-it": "^18.1.2",
     "turbo": "^1.10.7",
     "typescript": "^5.2.2"
   },
